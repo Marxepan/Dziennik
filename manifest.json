@@ -1,0 +1,10 @@
+
+{
+  "short_name": "Wolność",
+  "name": "Dziennik Wolności",
+  "description": "Aplikacja do śledzenia postępów w walce z uzależnieniem od pornografii.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0d9488",
+  "background_color": "#f1f5f9"
+}
